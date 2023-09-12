@@ -1,3 +1,8 @@
+/**
+* This program was created by Ahamed Careem (Github: amcareem, LinkedIn: https://www.linkedin.com/in/ahamedmusthafacareem/)
+*
+* All rights reserved. Copying or publishing this code anywhere else without permission is strictly prohibited.
+*/
 <?php
 
 $query_string = preg_split('/=/', $_SERVER['QUERY_STRING'], -1, PREG_SPLIT_NO_EMPTY);
